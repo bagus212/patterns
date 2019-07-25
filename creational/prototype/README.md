@@ -1,0 +1,1 @@
+prototype patterns bertujuan untuk membuat object object tertentu yang telah disediakan sebelum runtime kemudian object client yang akan menggunakan cukup mengkopi nilai yang diinginkan. Sehingga perubahan yang dilakukan object client tidak mempengaruhi nilai yang pada prototype object.
