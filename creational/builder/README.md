@@ -1,0 +1,1 @@
+Builder Design pattern, adalah design pattern yang digunakan untuk membuat suatu object complex dengan cara memisahkan setiap step pembuatan. Karena urutan dapat berubah sesuai kebutuhan Object client yang akan menyusun berdasarkan urutan yang dibutuhkan.

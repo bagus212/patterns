@@ -1,0 +1,1 @@
+factory pattern digunakan untuk membuat object yang berbeda beda dengan menggunakan 1 buat Factory Function, Factory Function mengambil argument berupa type object kemudian mengemablikan object sesuai dengan type object dalam parameter.
